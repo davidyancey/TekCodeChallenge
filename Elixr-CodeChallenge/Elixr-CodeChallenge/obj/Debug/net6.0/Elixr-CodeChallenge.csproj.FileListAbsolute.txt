@@ -1,0 +1,15 @@
+C:\Users\davey\source\repos\Elixr-CodeChallenge\Elixr-CodeChallenge\bin\Debug\net6.0\Elixr-CodeChallenge.exe
+C:\Users\davey\source\repos\Elixr-CodeChallenge\Elixr-CodeChallenge\bin\Debug\net6.0\Elixr-CodeChallenge.deps.json
+C:\Users\davey\source\repos\Elixr-CodeChallenge\Elixr-CodeChallenge\bin\Debug\net6.0\Elixr-CodeChallenge.runtimeconfig.json
+C:\Users\davey\source\repos\Elixr-CodeChallenge\Elixr-CodeChallenge\bin\Debug\net6.0\Elixr-CodeChallenge.dll
+C:\Users\davey\source\repos\Elixr-CodeChallenge\Elixr-CodeChallenge\bin\Debug\net6.0\Elixr-CodeChallenge.pdb
+C:\Users\davey\source\repos\Elixr-CodeChallenge\Elixr-CodeChallenge\obj\Debug\net6.0\Elixr-CodeChallenge.csproj.AssemblyReference.cache
+C:\Users\davey\source\repos\Elixr-CodeChallenge\Elixr-CodeChallenge\obj\Debug\net6.0\Elixr-CodeChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davey\source\repos\Elixr-CodeChallenge\Elixr-CodeChallenge\obj\Debug\net6.0\Elixr-CodeChallenge.AssemblyInfoInputs.cache
+C:\Users\davey\source\repos\Elixr-CodeChallenge\Elixr-CodeChallenge\obj\Debug\net6.0\Elixr-CodeChallenge.AssemblyInfo.cs
+C:\Users\davey\source\repos\Elixr-CodeChallenge\Elixr-CodeChallenge\obj\Debug\net6.0\Elixr-CodeChallenge.csproj.CoreCompileInputs.cache
+C:\Users\davey\source\repos\Elixr-CodeChallenge\Elixr-CodeChallenge\obj\Debug\net6.0\Elixr-CodeChallenge.dll
+C:\Users\davey\source\repos\Elixr-CodeChallenge\Elixr-CodeChallenge\obj\Debug\net6.0\refint\Elixr-CodeChallenge.dll
+C:\Users\davey\source\repos\Elixr-CodeChallenge\Elixr-CodeChallenge\obj\Debug\net6.0\Elixr-CodeChallenge.pdb
+C:\Users\davey\source\repos\Elixr-CodeChallenge\Elixr-CodeChallenge\obj\Debug\net6.0\Elixr-CodeChallenge.genruntimeconfig.cache
+C:\Users\davey\source\repos\Elixr-CodeChallenge\Elixr-CodeChallenge\obj\Debug\net6.0\ref\Elixr-CodeChallenge.dll
